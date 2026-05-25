@@ -6,14 +6,14 @@
             "bin": [
                 "moray.exe"
             ],
-            "hash": "a2d9061aea3b9597b5eefee1a0f79240343e6e60723332cab8341f64a64345e3"
+            "hash": "a1ca6171262ee3ac768007b9df97e3959d93b5ae0ad358a02a6743a53c4ef8b9"
         },
         "arm64": {
             "url": "https://github.com/tomozo6/moray/releases/download/v0.0.7/moray_Windows_arm64.zip",
             "bin": [
                 "moray.exe"
             ],
-            "hash": "ccab3f91a2548486d525524ab055d2d07bbed75d30178fc62028ee8d98cd1d79"
+            "hash": "f5d6315f1ec668c0cce4300f28ad2f48bd5923bc7e92fca0ea2d51ed5b96854a"
         }
     },
     "homepage": "https://github.com/tomozo6/moray",
