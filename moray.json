@@ -1,19 +1,19 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tomozo6/moray/releases/download/v0.0.6/moray_Windows_x86_64.zip",
+            "url": "https://github.com/tomozo6/moray/releases/download/v0.0.7/moray_Windows_x86_64.zip",
             "bin": [
                 "moray.exe"
             ],
-            "hash": "607960b24cf049499f1e82a0f04889c380b5fc57ad8467ec8d54a9c34dc7436c"
+            "hash": "a2d9061aea3b9597b5eefee1a0f79240343e6e60723332cab8341f64a64345e3"
         },
         "arm64": {
-            "url": "https://github.com/tomozo6/moray/releases/download/v0.0.6/moray_Windows_arm64.zip",
+            "url": "https://github.com/tomozo6/moray/releases/download/v0.0.7/moray_Windows_arm64.zip",
             "bin": [
                 "moray.exe"
             ],
-            "hash": "7ac134e5c001a5fbaa553506ac7ac2678d3ced1264014a554486896b22cabaa9"
+            "hash": "ccab3f91a2548486d525524ab055d2d07bbed75d30178fc62028ee8d98cd1d79"
         }
     },
     "homepage": "https://github.com/tomozo6/moray",
