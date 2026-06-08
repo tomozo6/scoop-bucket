@@ -1,0 +1,28 @@
+{
+    "version": "0.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tomozo6/tfcmp/releases/download/v0.0.0/tfcmp_Windows_x86_64.zip",
+            "bin": [
+                "tfcmp.exe"
+            ],
+            "hash": "46c84d0ea819f7083b1ca800603ec02ca58d4a3870efc7534b48d7e2e38069c7"
+        },
+        "arm64": {
+            "url": "https://github.com/tomozo6/tfcmp/releases/download/v0.0.0/tfcmp_Windows_arm64.zip",
+            "bin": [
+                "tfcmp.exe"
+            ],
+            "hash": "ed2e8ee9ead81f266e778f1e609554a5c3b7238bf67a0eaf7eee33d9307f95e8"
+        }
+    },
+    "homepage": "https://github.com/tomozo6/tfcmp",
+    "license": "MIT",
+    "description": "tfcmp is a Go CLI to compare Terraform code differences across environment directories.",
+    "shortcuts": [
+        [
+            "tfcmp.exe",
+            "tfcmp"
+        ]
+    ]
+}
